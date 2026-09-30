@@ -243,4 +243,4 @@ This repository serves as the official landing page for Livewire. The software i
 **Get the most recent version of Livewire today!**
 
 ---
-**Last updated:** 2026-09-29 20:31:24 UTC
+**Last updated:** 2026-09-30 00:08:15 UTC
